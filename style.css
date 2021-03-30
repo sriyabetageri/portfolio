@@ -1,0 +1,42 @@
+h1{
+    color: rgb(122, 121, 207);
+}
+
+p{
+    color: rgb(6, 94, 6);
+    font-style:italic;
+}
+
+*{
+    border:solid;
+    border-width: 5px; 
+}
+
+.header{
+    border-color: aquamarine;
+    display:flex;
+    justify-content:space-between
+}
+
+.image{
+    border-color: rgb(245, 169, 194);
+    display:flex;
+    justify-content:space-around
+}
+
+
+.clock{
+    border-color: rgb(219, 186, 143);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.social media{
+    border-color: rgb(87, 45, 167);
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+
